@@ -10,3 +10,17 @@ body {
     padding: 20px;
     border-bottom: solid 5px #939291;
 }
+
+.top-image {
+    background-image: url(images/top-image.png);
+    width: 100%;
+    height: auto;
+    border: solid 14px #fff;
+    margin-top: 40px;
+}
+
+.grid {
+    background-image: url(images/grid.png);
+    height: 100%;
+    width: 100%;
+}
