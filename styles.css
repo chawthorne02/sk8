@@ -1,0 +1,12 @@
+body {
+    background-image: url(images/bg.jpg);
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #fff;
+    border: solid 1px #B3292E;
+    background-color: #B3292E;
+    padding: 20px;
+    border-bottom: solid 5px #939291;
+}
