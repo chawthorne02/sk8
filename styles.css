@@ -253,6 +253,7 @@ transform: rotate(90degs);
 
 .lance {
     width: 100%;
+    background-position: 0%;
 }
 
 .rodney {
@@ -265,6 +266,25 @@ transform: rotate(90degs);
 }
 
 
+#skateboards {
+    height: auto;
+}
+#skateboards > div {
+    /* position: relative; */
+    display: flex;
+    justify-content: center;
+    height: auto;
+    flex-grow: 1;
+    /* width: auto; */
+    /* padding: 5px; */
+}
+
+.boards {
+    position: static;
+    transform-origin: unset;
+    transform: unset;
+    width: 80%;
+}
 
 
 }
