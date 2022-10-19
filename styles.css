@@ -10,6 +10,29 @@ nav {
     justify-content: flex-end;
 }
 
+.nav-btns {
+    width: 100%;
+    position: relative;
+    margin: 0 0 15px 0;
+}
+
+.nav-btns .btn {
+    margin: 5px;
+    background-color: #B3292E;
+    position: relative;
+    border-bottom: 4px solid #908F8F;
+    border-radius: 0;
+    width: 100%;
+}
+
+.nav-btns .btn a {
+    text-decoration: none;
+    color: #fff;
+    border: solid 1px #B3292E;
+    background-color: #B3292E;
+   
+}
+
 
 nav ul {
     position: relative;
@@ -49,14 +72,14 @@ nav ul li {
 }
 
 
-.navbar a {
+/* .navbar a {
     text-decoration: none;
     color: #fff;
     border: solid 1px #B3292E;
     background-color: #B3292E;
     padding: 20px;
     border-bottom: solid 5px #939291;
-}
+} */
 
 .top-image {
     background-image: url(images/top-image.png);
