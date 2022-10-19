@@ -225,3 +225,23 @@ transform: rotate(90degs);
     background-clip: padding-box;
     border: 1px solid #ced4da;
 }
+
+@media (max-width: 768px) {
+
+.lance {
+    width: 100%;
+}
+
+.rodney {
+    width: 100%;
+}
+
+.tommy {
+    width: 100%;
+    height: 260px;
+}
+
+
+
+
+}
